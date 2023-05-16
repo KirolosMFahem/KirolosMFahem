@@ -1,6 +1,6 @@
 # Hi There 👋🏽
-## I'm Kirolos a software engineer 👨🏽‍💻🧑🏽‍💻
-## I'm the founder & CEO @KMTeam-LLC
+<h3> I'm Kirolos a software engineer 👨🏽‍💻<br>
+the founder & CEO @KMTeam-LLC</h3>
 
 # Tech Stack
 <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css" title="Flutter, Firebase, Dart, HTML, CSS" alt="Flutter, Firebase, Dart, Html, Css" /> <br />
