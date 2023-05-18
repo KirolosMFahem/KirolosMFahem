@@ -14,6 +14,9 @@ ___
 <a href="https://www.buymeacoffee.com/KMTeam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br />
               
+<img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirolosMFahem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirolosMFahem&show_icons=true&locale=ar&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirolosMFahem&show_icons=true&locale=de&layout=compact&theme=radical" alt="most used languages" />
 
 
 <h4 align="center">
