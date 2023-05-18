@@ -12,4 +12,46 @@ ___
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirolos-m-fahem-11bb66201/)
 <a href="https://www.buymeacoffee.com/KMTeam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<br />
               
+<img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirolosMFahem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>
+
+<img src="https://github.com/KirolosMFahem/KirolosMFahem/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+<a align="center" href="https://komarev.com/ghpvc/?username=KirolosMFahem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=KirolosMFahem&style=for-the-badge">
+</a>
+  
+<img src="https://github.com/KirolosMFahem/KirolosMFahem/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
