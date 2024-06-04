@@ -4,7 +4,8 @@ the founder & CEO @KMTeam-LLC</h3>
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Kirolos/30-nites-of-code)  
-  ![@Kirolos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kirolos)
+  ![@Kirolos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kirolos)   ![@Kirolos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kirolos)
+  [Check out my progress!](https://www.codedex.io/@Kirolos/30-nites-of-code)  
   
 # Tech Stack
 <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css,php" title="Flutter, Firebase, Dart, HTML, CSS, PHP" alt="Flutter, Firebase, Dart, Html, Css, Php" /> <br />
