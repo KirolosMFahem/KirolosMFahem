@@ -15,7 +15,7 @@ ___
 <h4 align="center">
   
 ```diff
-|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
 |  Don'tPushToProductionOnFriday {     |
 |    && Self-host != Open Source       |
 |  }                                   |
