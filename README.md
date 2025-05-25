@@ -10,6 +10,25 @@ the founder & CEO @KMTeam-LLC</h3>
 <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css,php" title="Flutter, Firebase, Dart, HTML, CSS, PHP" alt="Flutter, Firebase, Dart, Html, Css, Php" /> <br />
 ___
 ![Kirolos's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirolosMFahem&show_icons=true&theme=tokyonight) 
+
+# Reminder
+<h4 align="center">
+  
+```diff
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+|  Don'tPushToProductionOnFriday {     |
+|    && Self-host != Open Source       |
+|  }                                   |
+|______________________________________|
+          \ (•◡•) / 
+           \      / 
+              ——
+            |    |
+            |_   |_
+
+```
+
+</h4>
 # Follow Me & feel free to buy me a coffee
 [![GitHub Kirolos](https://img.shields.io/github/followers/KirolosMFahem?label=follow&style=social)](https://github.com/KirolosMFahem)
 [![Gmail Badge](https://img.shields.io/badge/-kiroooelsoyagh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiroooelsoyagh@gmail.com)](mailto:kiroooelsoyagh@gmail.com)
